@@ -47,7 +47,7 @@ Which model tracks the actual values better over time?
 * The closing price model tracks the real price more closely than the FNG model. 
 
 
-|![Closing Model](Images/Closing_Model.png)|
+|![Closing Model](Images/Closing_model.png)|
 |:--:| 
 | *Closing Model*|
 
